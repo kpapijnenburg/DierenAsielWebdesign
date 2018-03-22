@@ -2,12 +2,12 @@ function OnReady() {
     console.log('Pagina geladen, DOM klaar voor gebruik.');
 
     $("#naam").focus(function () {
-        $('#hidden').show();
-    });
+        $(".hidden").show();
+     });
 
     $("#naam").blur(function () {
-        $('#hidden').hide();
-    });
+        $(".hidden").hide();
+     });
 }
 
 $(document).ready(OnReady);
