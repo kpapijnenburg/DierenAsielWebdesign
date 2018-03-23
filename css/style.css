@@ -1,37 +1,3 @@
-body {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
 
-p {
-    font-size: 14px;
-}
 
-a {
-    color: #339933;
-    text-decoration: none;
-}
-
-a :hover {
-    text-decoration-line: underline;
-}
-
-.title {
-    width: 100%;
-    text-align: center;
-}
-
-image {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;;
-}
-
-.hidden{
-    visibility: hidden;
-}
-
-p{
-    display: inline-block;
-}
 
